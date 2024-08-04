@@ -4,12 +4,7 @@ Welcome to the Empower Your Learning repository! This project aims to revolution
 
 ## About
 
-Empower Your Learning is a project developed by [Deependra Verma](https://deependradatascience-productportfolio.netlify.app/), a passionate data science enthusiast and lifelong learner. Deependra's expertise and dedication to education have fueled the creation of this innovative tool.
-
-Connect with Deependra:
-- [LinkedIn](https://www.linkedin.com/in/deependra-verma-data-science)
-- [Medium](https://medium.com/@deependra.verma00)
-- [Kaggle](https://www.kaggle.com/deependraverma13)
+Empower Your Learning is a project developed by Rohit Patil, a passionate data science enthusiast and lifelong learner. Deependra's expertise and dedication to education have fueled the creation of this innovative tool.
 
 ## Features
 
@@ -52,10 +47,6 @@ To get started with Empower Your Learning, follow these steps:
    ```
 
 5. Enter your field of study and generate your personalized course roadmap!
-
-## Demo
-
-Check out our demo video to see Empower Your Learning in action: [Demo Video](insert_demo_video_link_here)
 
 ## Contributing
 

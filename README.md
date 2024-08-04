@@ -26,7 +26,7 @@ To get started with Empower Your Learning, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/DeependraVerma/Empower-Your-Learning-Personalized-Roadmap-Tool.git](https://github.com/rohitspatil30/Roadmap_generator.git)
+   git clone https://github.com/rohitspatil30/Roadmap_generator.git
    ```
 
 2. Install the required dependencies:

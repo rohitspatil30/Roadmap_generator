@@ -4,7 +4,7 @@ Welcome to the Empower Your Learning repository! This project aims to revolution
    
 ## About    
 
-Empower Your Learning is a project developed by Rohit Patil, a passionate data science enthusiast and lifelong learner. Deependra's expertise and dedication to education have fueled the creation of this innovative tool.
+Empower Your Learning is a project developed by Rohit Patil, a passionate data science enthusiast and lifelong learner. Deependra's expertise and dedication to education have fueled the creation of this innovative tool.   
 
 ## Features
 
